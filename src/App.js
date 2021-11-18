@@ -1,23 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
+import warning from './images/warning-sign-39220.png'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Alex Franco</h1>
-        <img src={logo} className="App-logo" alt="logo" />
+        <h1>Hello, my name is Alex.</h1>
+        <img src={warning} className="App-logo" alt="logo" width="300px" height="300px"/>
         <p>
-          Creating portfolio using React
+          Currently creating portfolio using React
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
