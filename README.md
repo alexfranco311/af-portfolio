@@ -1,6 +1,6 @@
 # Portfolio is currently in development using React
 
-<img src="src/images/initial-capture.png">
+<img src="html-only/content/images/initial-capture.png">
 
 Check back for updates soon!
 
