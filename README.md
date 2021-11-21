@@ -1,7 +1,5 @@
-# Portfolio is currently in development using React
-
-<img src="html-only/content/images/initial-capture.png">
+# Portfolio is currently under development using HTML5, CSS3 & Javascript
 
 Check back for updates soon!
 
-Site will be live at <https://alexfranco311.github.io/af-portfolio/>
+To see the current progress, the site will be live at <https://afranco.dev/>
