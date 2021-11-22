@@ -53,6 +53,11 @@ body {
     border: 2px solid #d1342fff;
 }
 
+.card a {
+    text-decoration: none;
+    background: transparent;
+ }
+
 .card button:hover {
     cursor: pointer;
     border: 2px solid #505050ff;
@@ -69,6 +74,7 @@ body {
  .links a {
     text-decoration: none;
     background: transparent;
+    color: red;
  }
 
  .links a:hover {
@@ -79,6 +85,8 @@ body {
     height: 100vh;
     width: 65vw;
     border: 1px solid red;
+    display: flex;
+    justify-content: center;
 }
 
 
