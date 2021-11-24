@@ -85,6 +85,7 @@ body {
 
  .links a:hover {
     cursor: pointer;
+    color: #d1342fff;
  }
 
 .container {
